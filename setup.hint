@@ -5,4 +5,3 @@ csv2, csv4, md5, bsdmd5, torrent and crc files. Test-only support is
 available for par and par2."
 category: Python Security
 requires: python
-
