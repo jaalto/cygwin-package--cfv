@@ -1,7 +1,7 @@
 cfv
 ------------------------------------------
 
-versatile file checksum creator and verifier
+Versatile file checksum creator and verifier
 
 An utility to test and create a wide range of checksum verification
 files. It currently supports testing and creating sfv, sfvmd5, csv,
@@ -44,23 +44,23 @@ Language:
 ------------------------------------------
 
 Build instructions:
-  unpack <PKG>-*-src.tar.bz2
+  unpack cfv-*-src.tar.bz2
     if you use setup to install this source package, it will be
     unpacked under /usr/src automatically
   cd /usr/src
-  ./<PKG>*.sh all
+  ./cfv*.sh all
 
 ------------------------------------------
 
 Files included in the binary distribution:
-  See content of *.tar.gz
+  See Cygwin package archive
 
 ------------------------------------------
 
 Port Notes:
 
------ version <VER>-<REL> -----
-- Initial release YYYY-MM-DD Firstname Lastname
+----- version 1.18.3-1 -----
+- Initial release 2013-03-08 Jari Aalto
 
-Cygwin port maintained by: Firstname Lastname <Your email here>
-Copyright (C) YYYY Firstname Lastname; Licensed under GPL v2 or later
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2013 Jari Aalto; Licensed under GPL v2 or later
