@@ -1,0 +1,66 @@
+cfv
+------------------------------------------
+
+versatile file checksum creator and verifier
+
+An utility to test and create a wide range of checksum verification
+files. It currently supports testing and creating sfv, sfvmd5, csv,
+csv2, csv4, md5, bsdmd5, torrent and crc files. Test-only support is
+available for par and par2.
+
+Runtime requirements:
+  python
+
+Build requirements:
+  python
+
+Canonical homepage:
+  http://freecode.com/projects/cfv
+  http://sourceforge.net/projects/cfv
+
+Canonical download:
+  See above
+
+Version control repository:
+  git://git.code.sf.net/p/cfv/git
+
+Mailing list:
+  https://sourceforge.net/projects/cfv/support?source=navbar
+
+Forum / Wiki:
+
+IRC channel:
+
+Upstream contact:
+  Maintainer:
+  Bugs: https://sourceforge.net/p/cfv/bugs/
+
+License:
+  GPL-2+
+
+Language:
+  Python
+
+------------------------------------------
+
+Build instructions:
+  unpack <PKG>-*-src.tar.bz2
+    if you use setup to install this source package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./<PKG>*.sh all
+
+------------------------------------------
+
+Files included in the binary distribution:
+  See content of *.tar.gz
+
+------------------------------------------
+
+Port Notes:
+
+----- version <VER>-<REL> -----
+- Initial release YYYY-MM-DD Firstname Lastname
+
+Cygwin port maintained by: Firstname Lastname <Your email here>
+Copyright (C) YYYY Firstname Lastname; Licensed under GPL v2 or later
