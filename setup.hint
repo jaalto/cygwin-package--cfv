@@ -1,3 +1,4 @@
+# ARCH=noarch
 sdesc: "Versatile file checksum creator and verifier"
 ldesc: "An utility to test and create a wide range of checksum verification
 files. It currently supports testing and creating sfv, sfvmd5, csv,
